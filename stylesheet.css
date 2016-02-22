@@ -1,0 +1,17 @@
+* {
+	text-align: center;
+}
+body {
+	background: #FFF2E6
+}
+h1 {
+	color: blue;
+}
+
+input {
+	padding: 10px 40px;
+	font-size: 20px;
+}
+p {
+	font-size: 30px;
+}
